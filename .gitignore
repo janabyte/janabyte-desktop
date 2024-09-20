@@ -1,0 +1,7 @@
+# Binaries and build files
+bin/
+build/
+
+# Generated files
+compile_commands.json
+
